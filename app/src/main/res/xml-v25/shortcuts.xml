@@ -1,0 +1,14 @@
+<shortcuts xmlns:android="http://schemas.android.com/apk/res/android">
+    <shortcut
+        android:shortcutId="write"
+        android:enabled="true"
+        android:icon="@drawable/shortcut_write"
+        android:shortcutShortLabel="@string/shortcut_shortname"
+        android:shortcutLongLabel="@string/shortcut_longname">
+        <intent
+            android:action="com.onurkaragunlu.writing"
+            android:targetPackage="com.onurkaragunlu.appshortcutexample"
+            android:targetClass="com.onurkaragunlu.appshortcutexample.MainActivity" />
+    </shortcut>
+    <!-- Specify more shortcuts here. -->
+</shortcuts>

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AppShortcutExample</string>
+    <string name="shortcut_shortname">Bir Yazı Yaz</string>
+    <string name="shortcut_shortname2">Bir Yazı Editle</string>
+    <string name="shortcut_longname">Yazı yaz</string>
+    <string name="shortcut_longname2">Yazı Editle</string>
+</resources>
